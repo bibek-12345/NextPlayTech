@@ -1,5 +1,6 @@
 # NextPlayTech
 
+
 ## Collaboration Guidelines
 
 ### Version Control System Best Practices
